@@ -22,10 +22,10 @@ This chatbot his name Boby, He is helps a person to know medical treatment and e
 - The first is Tags:
 words to describe the condition of the injured person
 
--The second is Response:
+- The second is Response:
 Answer for a sick person or injured from chatbot BoBy 
 
--The third is patterns:
+- The third is patterns:
 Questions ask the paramedic, Bobby
 
 ## Tools
