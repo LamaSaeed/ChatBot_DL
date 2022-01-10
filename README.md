@@ -16,11 +16,12 @@ This chatbot his name Boby, He is helps a person to know medical treatment and e
 
 ## Data
 
-The our data it is intents Data and consists of 3 types :
+* The our data it is intents Data and consists of 3 types :
 1- Tags 2- Responses 3- Patterns
 
 - The first is Tags:
 words to describe the condition of the injured person
+
 -The second is Response:
 Answer for a sick person or injured from chatbot BoBy 
 
