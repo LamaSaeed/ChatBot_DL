@@ -1,26 +1,40 @@
-# ChatBot_DL
-
-
+# Boby_ChatBot_DL
 
 
 ## Descraption
-A chatbot is a computer program that simulates human conversation through voice commands or text chats or both. Chatbot, short for chatterbot, is an Artificial Intelligence (AI) feature that can be embedded and used through any major messaging applications
+
+First aid is the provision of initial care for an illness or injury, usually performed by a non-expert person to a sick or injured person until definitive medical treatment can be accessed by a professional
+
+This chatbot his name Boby, He is helps a person to know medical treatment and explains to him the methods of treatment for the injury.
 
 
 ## Goal
 
--customer satisfaction in a technology company through conversation
+- Helping people and treating them with first aid
+- The Quick answer when someone an injury occurs
+- Awareness of first aid
 
 ## Data
 
-This is a Topical Chat dataset from Amazon! It consists of over 8000 conversations and over 184000 messages!
+The our data it is intents Data and consists of 3 types :
+1- Tags 2- Responses 3- Patterns
 
-Within each message, there is: A conversation id, which is basically which conversation the message takes place in. Each message is either the start of a conversation or a reply from the previous message. There is also a sentiment, which represents the emotion that the person who sent the message is feeling. There are 8 sentiments: Angry, Curious to Dive Deeper, Disguised, Fearful, Happy, Sad, and Surprised.
+- The first is Tags:
+words to describe the condition of the injured person
+-The second is Response:
+Answer for a sick person or injured from chatbot BoBy 
+
+-The third is patterns:
+Questions ask the paramedic, Bobby
 
 ## Tool
 
 - chatbot 
 - numby
 - pands
+- Keras
+- instant
 - Html&css
+- Bootstrap
+- Figma
 
