@@ -8,7 +8,7 @@ First aid is the provision of initial care for an illness or injury, usually per
 This chatbot his name Boby, He is helps a person to know medical treatment and explains to him the methods of treatment for the injury.
 
 
-## Goal
+## Goals
 
 - Helping people and treating them with first aid
 - The Quick answer when someone an injury occurs
@@ -28,7 +28,7 @@ Answer for a sick person or injured from chatbot BoBy
 -The third is patterns:
 Questions ask the paramedic, Bobby
 
-## Tool
+## Tools
 
 - chatbot 
 - numby
@@ -39,3 +39,9 @@ Questions ask the paramedic, Bobby
 - Bootstrap
 - Figma
 
+
+## Teams
+
+- <a src="https://github.com/LamaSaeed/ChatBot_DL/"> Lama Saeed</a>
+-  <a src="https://github.com/Afnan-alshehri/daap-learning"> Afnan Alshehri</a>
+- <a src="https://github.com/kholod2/ChatBot_DL"> Khloud ALshehri</a>
