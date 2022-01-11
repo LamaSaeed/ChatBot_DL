@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  BoBy_ChatBot_meadical (MVP)
 
 
