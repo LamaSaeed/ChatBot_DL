@@ -42,5 +42,5 @@ Classify each type of data to a list
 
 ## Summary Model
 
->>>>>>> f3a3a77081b7090aea9fbb2883a2e2e74949dae7
+
 <img src="summary.jpg">
