@@ -7,12 +7,12 @@
 
          {"tag": "greeting",
          "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Whats up"],
-         "responses": ["Hi , i am boby your paramedic"],
+         "responses": ["Hi, i am Mosif your paramedic"],
          "context_set": ""
         },
         {"tag": "goodbye",
          "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day","bye"],
-         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+         "responses": ["Take care", "get well soon", "Goodbye!","Bye"],
          "context_set": ""
         },
         {"tag": "Abrasions",
@@ -271,6 +271,12 @@
          "patterns": ["How do you treat a Fracture?", "what to do if i get a Fracture?", "Which medicine to take if I have a Fracture?", "How to cure a Fracture?"],
          "responses": ["1)Stop any bleeding. Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing. 2)Immobilize the injured area. Don't try to realign the bone or push a bone that's sticking out back in. If you've been trained in how to splint and professional help isn't readily available, apply a splint to the area above and below the fracture sites. Padding the splints can help reduce discomfort. 3)Apply ice packs to limit swelling and help relieve pain. Don't apply ice directly to the skin. Wrap the ice in a towel, piece of cloth or some other material. 4)Treat for shock. If the person feels faint or is breathing in short, rapid breaths, lay the person down with the head slightly lower than the trunk and, if possible, elevate the legs."],
          "context_set": ""
-        }
+        },
+
+        {"tag": "Answer",
+                "patterns": ["answer me","?", "what can i do ?", "help", "help me"],
+                "responses": [" Relax sweety Tell me more "],
+                "context_set": ""
+               }
    ]
 }

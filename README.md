@@ -10,9 +10,9 @@ This chatbot his name Boby, He is helps a person to know medical treatment and e
 
 ## Goals
 
-- Helping people and treating them with first aid
+-  Help the patient quickly from chatbot "mosif"
 - The Quick answer when someone an injury occurs
-- Awareness of first aid
+
 
 ## Data
 
@@ -23,10 +23,10 @@ This chatbot his name Boby, He is helps a person to know medical treatment and e
 words to describe the condition of the injured person
 
 - The second is Response:
-Answer for a sick person or injured from chatbot BoBy 
+Answer for a sick person or injured from chatbot 
 
 - The third is patterns:
-Questions ask the paramedic, Bobby
+Questions from the chatbot mosif.  
 
 ## Tools
 

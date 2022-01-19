@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8" >
    <meta author="lmico" > 
-  <title>BoBy</title>
-  <link rel="stylesheet" href="./style.css">
+  <title>Mosif</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='../static/style.css')}}">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,15 +20,12 @@
         <div class="card">
           <div class="face">
   
-              <img src="/templates/imgs/start.png" class="imgStart">
+              <img src="{{ url_for('static', filename='../static/imgs/start.png')}}" class="imgStart">
 
             <h1>Hey !</h1>
-            <br>
-            <h6> I am Chat Bot BoBY  <br> I will help you <br> with first aid </h6>
+            <h6> I am ChatBot MOSIF </h6>
             <div class="group">
-                <a href="Register.html">
-                  <input type="submit" class="button2" value="  Let's Start !>">
-                     </a>
+                <a href="{{url_for('register')}}" class="button2">  Let's Start ! </a>
             </div>
           </div>
         </div>
